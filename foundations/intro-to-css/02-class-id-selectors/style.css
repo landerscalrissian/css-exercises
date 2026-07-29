@@ -1,1 +1,26 @@
 /* Add CSS Styling */
+.all-text {
+  font-family:
+    Verdana,
+    DejaVu Sans,
+    sans-serif;
+}
+
+.normal-text {
+  background-color: #ffc0cb;
+}
+
+#second-text {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.normal-text.cooler-text {
+  font-size: 24px;
+}
+
+#fourth-text {
+  font-weight: bold;
+  background-color: #90ee90;
+  font-size: 24px;
+}
